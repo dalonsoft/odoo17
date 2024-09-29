@@ -1,0 +1,4 @@
+.env
+odoo.key
+odoo.crt
+volumes/
